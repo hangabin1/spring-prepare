@@ -9,5 +9,7 @@ public class SpringPrepareApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringPrepareApplication.class, args);
         System.out.println("어쩌고저쩌고");
+        System.out.println("Kakao Login Added");
+        System.out.println("Naver Login Added");
     }
 }
