@@ -11,5 +11,7 @@ public class SpringPrepareApplication {
         System.out.println("어쩌고저쩌고");
         System.out.println("Kakao Login Added");
         System.out.println("Naver Login Added");
+        System.out.println("Naver Login Added");
+        System.out.println("Naver Login Added");
     }
 }
