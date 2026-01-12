@@ -1,6 +1,26 @@
 package com.meta.springprepare.calculator;
 
 public class Calculator {
+    // 한줄 주석
+
+    /*
+    여
+    러
+    문
+    장
+    주
+    석
+     */
+
+    /**
+     * 계산기 4칙 연산 함수
+     * @param num1 : 입룍값 1
+     * @param op : 연산자
+     * @param num2 : 입력값 2
+     * @return : result
+     */
+
+    // 4칙 연산 기능
     public Double operate(double num1, String op, double num2){
         switch (op) {
             case "*":
